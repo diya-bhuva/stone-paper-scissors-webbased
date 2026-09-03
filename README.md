@@ -28,7 +28,10 @@ Rock-Paper-Scissors/
 ├── sps.js
 ├── rock2.png
 ├── paper2.png
-└── scissors2.png
+├── scissors2.png
+├── Screenshot 2026-09-03 181054.png
+└── README.md
+
 ```
 
 ## 🎮 How to Play
@@ -46,6 +49,9 @@ Rock-Paper-Scissors/
 - 📄 **Paper beats Rock**
 - 🤝 Same choices result in a **Draw**
 
+## 📸 Screenshot
+
+![Rock Paper Scissors Game](Screenshot%202026-09-03%20181054.png)
 
 ## 👩‍💻 Author
 
