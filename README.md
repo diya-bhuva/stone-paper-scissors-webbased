@@ -46,13 +46,6 @@ Rock-Paper-Scissors/
 - 📄 **Paper beats Rock**
 - 🤝 Same choices result in a **Draw**
 
-## 📸 Screenshot
-
-Add your project screenshot here:
-
-```markdown
-![Rock Paper Scissors Game](screenshot.png)
-```
 
 ## 👩‍💻 Author
 
